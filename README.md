@@ -7,10 +7,12 @@ I'm a passionate developer who loves building robust software solutions and divi
 🚀 **Interests:** Software Architecture | Backend Development
 📂 **What you'll find here:** Open-source projects, useful resources, and deep dives into tech!  
 
+
 💡 **What's here?**  
 I've shared some valuable resources and insights on **Data & Algorithms (D&A)**.  
 📂 These materials are free for everyone to use and reference.  
 💌 I believe in sharing knowledge to empower the community! 🌍  
+
 
 ### 🤝 Let’s Connect!  
 I'm always up for collaborations, discussions, and sharing knowledge. Whether it's an exciting project or just a geeky tech talk, feel free to reach out or explore my repositories!  
