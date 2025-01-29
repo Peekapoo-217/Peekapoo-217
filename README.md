@@ -5,7 +5,6 @@ I'm a passionate developer who loves building robust software solutions and divi
 ### 🔹 About Me  
 💻 **Tech Stack:** ASP.NET Core | Java | C++ | Data & Algorithms (D&A)  
 🚀 **Interests:** Software Architecture | Backend Development
-📂 **What you'll find here:** Open-source projects, useful resources, and deep dives into tech!  
 
 
 💡 **What's here?**  
