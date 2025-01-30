@@ -29,7 +29,3 @@ Thanks for visiting! Have a great day! 🎉
 
 
 
-
-## 🔥 Visitor Count  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Peekapoo-217.Peekapoo-217)
-
