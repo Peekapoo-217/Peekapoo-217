@@ -26,3 +26,10 @@ Thanks for visiting! Have a great day! 🎉
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peekapoo-217&layout=compact&langs_count=6&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peekapoo-217&theme=dark)
+
+
+## 📈 GitHub Contributions Graph  
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Peekapoo-217&theme=react-dark)
+
+## 🔥 Visitor Count  
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Peekapoo-217.Peekapoo-217)
