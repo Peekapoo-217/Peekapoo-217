@@ -1,22 +1,3 @@
-✨ **Hello there! Welcome to my GitHub space!** 🚀  
-
-I'm a passionate developer who loves building robust software solutions and diving into cutting-edge technologies. 💡  
-
-### 🔹 About Me  
-💻 **Tech Stack:** ASP.NET Core | Java | C++ | Data & Algorithms (D&A)  
-🚀 **Interests:** Software Architecture | Backend Development
-
-
-💡 **What's here?**  
-I've shared some valuable resources and insights on **Data & Algorithms (D&A)**.  
-📂 These materials are free for everyone to use and reference.  
-💌 I believe in sharing knowledge to empower the community! 🌍  
-
-
-### 🤝 Let’s Connect!  
-I'm always up for collaborations, discussions, and sharing knowledge. Whether it's an exciting project or just a geeky tech talk, feel free to reach out or explore my repositories!  
-
-Thanks for visiting! Have a great day! 🎉  
 
 ## 🚀 Tech Stack  
 
